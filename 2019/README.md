@@ -1,0 +1,1 @@
+Most of the files in here use `std.fs.cwd()` so when running `zig run main.zig` make sure to be in the same directory as the `.zig` file in the terminal, otherwise it won't be able to find the file.
